@@ -1,0 +1,7 @@
+C:\Users\jonat\Documents\Visual Studio 2017\Projects\Conta\Conta\bin\Debug\Conta.exe.config
+C:\Users\jonat\Documents\Visual Studio 2017\Projects\Conta\Conta\bin\Debug\Conta.exe
+C:\Users\jonat\Documents\Visual Studio 2017\Projects\Conta\Conta\bin\Debug\Conta.pdb
+C:\Users\jonat\Documents\Visual Studio 2017\Projects\Conta\Conta\obj\Debug\Conta.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\Visual Studio 2017\Projects\Conta\Conta\obj\Debug\Conta.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\Visual Studio 2017\Projects\Conta\Conta\obj\Debug\Conta.exe
+C:\Users\jonat\Documents\Visual Studio 2017\Projects\Conta\Conta\obj\Debug\Conta.pdb
